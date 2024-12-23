@@ -1,4 +1,3 @@
-# Brain-MRI-Image-Generation-with-DCGAN
 # Brain Tumor Detection from MRI Scans Using DC-GAN and CNN
 
 This repository presents a deep learning-based approach for detecting brain tumors from MRI scans using a combination of **Deep Convolutional Generative Adversarial Networks (DC-GAN)** and **Convolutional Neural Networks (CNN)**. The goal of this project is to generate synthetic MRI images using DC-GAN to overcome the challenge of limited annotated datasets and enhance tumor classification performance using a CNN.
